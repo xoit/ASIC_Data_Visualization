@@ -16,4 +16,4 @@ A brief practice on Data Visualization for ASIC designs, mainly focus on design 
 
 ## Reference and Recommendation
 
-- Book: The Functional Art - An introduction to information graphics and visualization by Albe rto Cairo
+- Book: The Functional Art - An introduction to information graphics and visualization, by Albe rto Cairo
