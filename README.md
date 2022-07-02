@@ -4,6 +4,8 @@ A brief practice on Data Visualization for ASIC designs, mainly focus on design 
 
 ## What is Data Visualization
 
+- [DIKW Pyramid](basis/dv_dikw.md)
+
 ## How important Data Visualization is in Chip Design
 
 ## What types of Data Visualization we are going to use
@@ -12,6 +14,6 @@ A brief practice on Data Visualization for ASIC designs, mainly focus on design 
 
 ## Good practices
 
-## Reference
+## Reference and Recommendation
 
-- 
+- Book: The Functional Art - An introduction to information graphics and visualization by Albe rto Cairo
