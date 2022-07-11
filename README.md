@@ -1,3 +1,6 @@
+<!--
+ * @LastEditors: SteveL
+-->
 # ASIC Data Visualization Practice
 
 A brief practice on Data Visualization for ASIC designs, mainly focus on design implementation.
@@ -13,6 +16,8 @@ A brief practice on Data Visualization for ASIC designs, mainly focus on design 
 ## A framework for Data Visualization development
 
 ## Good practices
+
+- Log visibility and visualization
 
 ## Reference and Recommendation
 
