@@ -26,7 +26,7 @@ So table is a very good and common format of "data visualizaiton".
 - ASIC career visiualization
   - [Career Tree](practise/career/career_tree.md) ([career_tree.pptx](assets/src/career_tree.pptx))
 - ASIC Design Platform
-  - [Hot Module Replacement](platform/hot_module_replacement.md) ([hot_module_replacement](assets/src/hot_module_replacement.pptx))
+  - [Hot Module Replacement](platform/hot_module_replacement.md) ([hot_module_replacement](assets/src/hot_module_replacement.excalidraw))
 - Log visibility and visualization
   - [Log Analyze](practise/log/log_analyze.md)
 - Design Power

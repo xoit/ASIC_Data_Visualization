@@ -2,6 +2,8 @@
 
 ![](../../assets/img/hmr_in_asic.png)
 
+([SRC File: hot_module_replacement.excalidraw](assets/src/hot_module_replacement.excalidraw))
+
 HMR is highlighted with a different "color temperature" and you should recognize it right away. And it stands for "Hot Module Replacement".
 
 - "Module" could be a function, a component, a step, or just a command.
