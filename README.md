@@ -5,6 +5,12 @@
 
 A brief practice on Data Visualization for ASIC designs, mainly focus on design implementation.
 
+When we are talking about "visualization", it does not mean we need to use python and generate some beautiful chart, etc.
+
+The key is "__communication__", how could you make the information delivered more efficiently?
+
+So table is a very good and common format of "data visualizaiton".
+
 ## What is Data Visualization
 
 - [DIKW Pyramid](basis/dv_dikw.md)
@@ -17,7 +23,14 @@ A brief practice on Data Visualization for ASIC designs, mainly focus on design 
 
 ## Good practices
 
+- ASIC career visiualization
+  - [Career Tree](practise/career/career_tree.md)
 - Log visibility and visualization
+  - [Log Analyze](practise/log/log_analyze.md)
+- Design Power
+- Design Area
+- Design Timing
+- Design Floorplan
 
 ## Reference and Recommendation
 

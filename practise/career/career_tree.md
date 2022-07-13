@@ -12,3 +12,10 @@ I think this is also a good example for __Data Visualizaiton in ASIC__.
 
 ![My Career Path](../../assets/img/career_tree.png)
 
+## Audience and Purpose
+
+First let's think about who is the audience of the image, data visualization?
+
+recuiter, new hires, or someone not in ASIC industry?
+
+
